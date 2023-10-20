@@ -306,7 +306,7 @@ zstyle ':omz:lib:theme-and-appearance' gnu-ls yes
 
 _Note: this is not compatible with `DISABLE_LS_COLORS=true`_
 
-### Skip aliases
+### Skip Aliases
 
 <a name="remove-directories-aliases"></a>
 
@@ -389,7 +389,7 @@ zstyle ':omz:update' frequency 7
 zstyle ':omz:update' frequency 0
 ```
 
-### Updates verbosity
+### Updates Verbosity
 
 You can also limit the update verbosity with the following settings:
 
